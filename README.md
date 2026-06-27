@@ -1,4 +1,4 @@
- <img src="https://github.com/user-attachments/assets/60563860-1b6b-42dd-bcca-80b6124e0682" width="650" alt="SCOTT HUTCH Codex Skills">
+<img width="200" height="200" alt="Screenshot 2026-06-27 at 10 05 57 AM" src="https://github.com/user-attachments/assets/6a263f82-3e89-460c-a453-021995aaea7f" />
 
 
 # OldAssDev Codex Skills
