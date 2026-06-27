@@ -13,3 +13,5 @@ Check:
 - avoidable indirection
 
 Is this the smallest implementation that still holds up?
+
+OldAssDev review: trim the fat, keep the useful bits.

@@ -19,6 +19,8 @@ Rules
   - what is the test seam?
   - what is the smallest acceptable version?
 - Challenge the premise if the request feels fuzzy, redundant, or overbuilt.
+- Ask why we are building this and what gets submitted.
+- Show me the thing before we go further.
 - Ask the most important blocking question first.
 - If anything still matters and is unclear, keep asking.
 - Do not guess.
