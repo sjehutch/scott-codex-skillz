@@ -3,26 +3,26 @@ set -eu
 
 case "${1:-}" in
   featurealign|feature-align|feature-alignment)
-    echo "Use feature-alignment on this ticket."
+    echo "Use oldassdev featurealign on this ticket."
     ;;
   plan|featureplan|feature-plan)
-    echo "Use feature-plan for the approved work."
+    echo "Use oldassdev featureplan for the approved work."
     ;;
   change|ponytail|ponytail-change)
-    echo "Use ponytail-change for the smallest useful change."
+    echo "Use oldassdev change for the smallest useful change."
     ;;
   qa|qagate|qa-gate)
-    echo "Use qa-gate before merge."
+    echo "Use oldassdev qa before merge."
     ;;
   review|reviewpr|review-pr)
-    echo "Use review-pr before merge."
+    echo "Use oldassdev review before merge."
     ;;
   "")
     echo "Usage: oldassdev featurealign"
     ;;
   *)
     echo "Unknown step: $1" >&2
-    echo "Try: featurealign, plan, change, qa, review" >&2
+    echo "Try: featurealign, featureplan, change, qa, review" >&2
     exit 1
     ;;
 esac
