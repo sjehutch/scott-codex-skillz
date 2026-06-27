@@ -1,3 +1,6 @@
+ <img src="https://github.com/user-attachments/assets/60563860-1b6b-42dd-bcca-80b6124e0682" width="650" alt="SCOTT HUTCH Codex Skills">
+
+
 # Codex Skills
 
 These skills make your code better, keep it SOLID, and keep the agent aligned with your requirements. Use `feature-alignment` first to make the work real, `feature-plan` to slice it small, `ponytail-change` to make the smallest useful change, `qa-gate` to prove it works, and `review-pr` to challenge the result before merge. Everything else is just support for those five steps.
