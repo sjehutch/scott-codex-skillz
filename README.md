@@ -3,7 +3,7 @@
 
 # OldAssDev Codex Skills
 
-These OldAssDev skills keep the agent honest and your code boring, SOLID, and testable. Start with `feature-alignment`, then `feature-plan`, then `ponytail-change`, then `qa-gate`, then `review-pr`. Everything else is noise.
+These OldAssDev skills keep the agent honest and your code boring, SOLID, and testable. Start with `oldassdev featurealign`, then `oldassdev featureplan`, then `oldassdev change`, then `oldassdev qa`, then `oldassdev review`. Everything else is noise.
 
 Every change must have a test seam and a runnable check.
 

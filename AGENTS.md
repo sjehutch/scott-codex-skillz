@@ -1,10 +1,10 @@
 OldAssDev order:
 
-1. `feature-alignment`
-2. `feature-plan`
-3. `ponytail-change`
-4. `qa-gate`
-5. `review-pr`
+1. `oldassdev featurealign`
+2. `oldassdev featureplan`
+3. `oldassdev change`
+4. `oldassdev qa`
+5. `oldassdev review`
 
 Question the requirement.
 Question the abstraction.
