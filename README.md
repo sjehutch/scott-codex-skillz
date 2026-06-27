@@ -29,8 +29,8 @@ If `oldassdev` is not found, add `export PATH="$HOME/.local/bin:$PATH"` to your 
 
 ## How to use
 
-1. Put the ticket or requirement into `feature-alignment`.
+1. Put the ticket or requirement into `oldassdev featurealign`.
 2. Answer the blocking questions until the work is clear.
-3. Use `feature-plan` to split the approved work into small slices.
-4. Use `ponytail-change` for each slice.
-5. Use `qa-gate` and `review-pr` before merge.
+3. Use `oldassdev featureplan` to split the approved work into small slices.
+4. Use `oldassdev change` for each slice.
+5. Use `oldassdev qa` and `oldassdev review` before merge.
